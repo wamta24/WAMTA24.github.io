@@ -186,6 +186,9 @@ technical_program_chair:
   - name: George Bosilca
     org:  University of Tennessee, Knoxville (USA)
     homepage: https://icl.utk.edu/~bosilca/
+  - name: Joseph Schuchart
+    org:  University of Tennessee, Knoxville (USA)
+    homepage: https://icl.utk.edu/people/profile/schuchart
 webmaster:
   - name: Parsa Amini
     org: Halpern-Wight Inc. (USA)
